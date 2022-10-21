@@ -4,11 +4,23 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .header-main{
-    text-align: center;
+   
     color: #FFFFFF;
     font-size: 50px;
 }
 .downloadbtn{
     color: aquamarine;
-    font-size: 25px;
+    font-size: 15px;
+}
+.middle-header{
+    
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.middle-line{
+    color: gray;
+    font-size: 21px;
+}
+.image{
+    width: 1000px;
 }
