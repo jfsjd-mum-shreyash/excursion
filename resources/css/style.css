@@ -24,3 +24,9 @@ body{
 .image{
     width: 1000px;
 }
+#footer{
+    color: gray;
+    text-align: right;
+    padding-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
