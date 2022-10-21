@@ -4,13 +4,14 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .header-main{
-   
+   padding-top: 70px;
     color: #FFFFFF;
     font-size: 50px;
 }
 .downloadbtn{
     color: aquamarine;
     font-size: 15px;
+    padding-bottom: 20px;
 }
 .middle-header{
     
@@ -23,6 +24,16 @@ body{
 }
 .image{
     width: 1000px;
+    padding-top: 20px;
+}
+.mobile{
+    
+    padding-top: 20px;
+}
+.footer-main{
+    padding-top: 10px;
+    color: #FFFFFF;
+    font-size: 50px;
 }
 #footer{
     color: gray;
